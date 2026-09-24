@@ -61,6 +61,8 @@ extension UserInterfaceSettings {
                                 .font(.footnote)
                                 .foregroundColor(.secondary)
                                 .lineLimit(nil)
+                                .multilineTextAlignment(.leading)
+                                .fixedSize(horizontal: false, vertical: true)
                                 Spacer()
                                 Button(
                                     action: {
@@ -116,6 +118,8 @@ extension UserInterfaceSettings {
                             .font(.footnote)
                             .foregroundColor(.secondary)
                             .lineLimit(nil)
+                            .multilineTextAlignment(.leading)
+                            .fixedSize(horizontal: false, vertical: true)
                             Spacer()
                             Button(
                                 action: {
@@ -179,6 +183,8 @@ extension UserInterfaceSettings {
                                 .font(.footnote)
                                 .foregroundColor(.secondary)
                                 .lineLimit(nil)
+                                .multilineTextAlignment(.leading)
+                                .fixedSize(horizontal: false, vertical: true)
                                 Spacer()
                                 Button(
                                     action: {
@@ -218,6 +224,8 @@ extension UserInterfaceSettings {
                             .font(.footnote)
                             .foregroundColor(.secondary)
                             .lineLimit(nil)
+                            .multilineTextAlignment(.leading)
+                            .fixedSize(horizontal: false, vertical: true)
                             Spacer()
                             Button(
                                 action: {
@@ -315,6 +323,8 @@ extension UserInterfaceSettings {
                             .font(.footnote)
                             .foregroundColor(.secondary)
                             .lineLimit(nil)
+                            .multilineTextAlignment(.leading)
+                            .fixedSize(horizontal: false, vertical: true)
                             Spacer()
                             Button(
                                 action: {
@@ -476,6 +486,8 @@ extension UserInterfaceSettings {
                                     "Set low and high glucose values for the main screen, watch app, live activity, and contact image colors."
                                 )
                                 .lineLimit(nil)
+                                .multilineTextAlignment(.leading)
+                                .fixedSize(horizontal: false, vertical: true)
                                 .font(.footnote)
                                 .foregroundColor(.secondary)
 
@@ -530,6 +542,8 @@ extension UserInterfaceSettings {
                             .font(.footnote)
                             .foregroundColor(.secondary)
                             .lineLimit(nil)
+                            .multilineTextAlignment(.leading)
+                            .fixedSize(horizontal: false, vertical: true)
                             Spacer()
                             Button(
                                 action: {
@@ -586,6 +600,8 @@ extension UserInterfaceSettings {
                                 .font(.footnote)
                                 .foregroundColor(.secondary)
                                 .lineLimit(nil)
+                                .multilineTextAlignment(.leading)
+                                .fixedSize(horizontal: false, vertical: true)
                                 Spacer()
                                 Button(
                                     action: {
@@ -627,6 +643,8 @@ extension UserInterfaceSettings {
                             .font(.footnote)
                             .foregroundColor(.secondary)
                             .lineLimit(nil)
+                            .multilineTextAlignment(.leading)
+                            .fixedSize(horizontal: false, vertical: true)
                             Spacer()
                             Button(
                                 action: {
